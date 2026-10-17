@@ -1,0 +1,123 @@
+[
+ {
+  "name": "UNCION TV",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2025/08/UNCION-TV.png",
+  "url": "https://edge.enhdtv.com/unciontv/index.m3u8",
+  "category": "Internacionales",
+  "featured": true
+ },
+ {
+  "name": "EBN Televisión",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/browser-download-20261017T002627.594672457Z-7-logo-head-300x184.png",
+  "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
+  "category": "Puerto Rico"
+ },
+ {
+  "name": "CDM Internacional",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/browser-download-20261017T002635.831606176Z-8-logo-min-300x243.png",
+  "url": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
+  "category": "Puerto Rico"
+ },
+ {
+  "name": "Salvación TV",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/logo-dominican-york-radio-claro.png",
+  "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
+  "category": "Puerto Rico"
+ },
+ {
+  "name": "La Voz de María",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/browser-download-20261017T002642.724026929Z-9-Logo.png",
+  "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "Luz Divina TV",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/browser-download-20261017T002647.864179635Z-10-Logo-V3-copia-300x300.png",
+  "url": "https://video.udwn.net:19360/luzdivinatv/luzdivinatv.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "Cielo TV Cristiana",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/browser-download-20261017T002656.290227533Z-11-ctvlogo.png",
+  "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "Televida Canal 41",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/browser-download-20261017T002813.192903813Z-14-Recurso-1.png",
+  "url": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "TeleBendición",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/logo-dominican-york-radio-claro.png",
+  "url": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "Radio morada de Amor",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/10/images.jpg",
+  "url": "https://edge.enhdtv.com/radiomoradadeamor/index.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "Durísima 105.7 FM",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/04/durisima-1057-fm.dbda72ba-1.jpg",
+  "url": "https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "Tendencia Digital FM",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/29c30074-74b7-4d2b-84b3-1928372ced57.png",
+  "url": "https://edge.enhdtv.com/8206/index.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "Nueva Vida FM",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/logog.webp",
+  "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "Pura Palabra",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/1746136936_multiradio-1.png",
+  "url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "Tú Faro de Santidad",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/1750285816_multiradio.png",
+  "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "alofoke.fm 99.3 fm",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/alofoke.png",
+  "url": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "Inspira 88.1",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/INSPIRA.png",
+  "url": "https://5dbcd1053301e.streamlock.net:4443/inspiratv/inspiratv/chunklist_w606092402.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "TRIUNFO 96.9 FM",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/TRIUNFO96.9.png",
+  "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/chunklist_w1117334692.m3u8",
+  "category": "Internacionales"
+ },
+ {
+  "name": "candelita7",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/01/CANDELITA-7.png",
+  "url": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
+  "category": "Republica Dominicana"
+ },
+ {
+  "name": "super7fm",
+  "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/04/logog-1.webp",
+  "url": "https://stream.haislin.com/super7fm/index.m3u8",
+  "category": "Republica Dominicana"
+ }
+]
