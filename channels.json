@@ -119,5 +119,95 @@
   "logo": "https://dominicanyorkradio.com/wp-content/uploads/2026/04/logog-1.webp",
   "url": "https://stream.haislin.com/super7fm/index.m3u8",
   "category": "Republica Dominicana"
+ },
+ {
+  "name": "Ebenezer TV",
+  "logo": "https://i.imgur.com/IC30j61.png",
+  "url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+  "category": "Honduras"
+ },
+ {
+  "name": "Canal 5 El Líder",
+  "logo": "https://i.imgur.com/4hEYFa9.png",
+  "url": "http://186.33.26.18:8000/play/a0s4/index.m3u8",
+  "category": "Honduras"
+ },
+ {
+  "name": "EDN TV",
+  "logo": "https://i.imgur.com/5fPsYTz.png",
+  "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+  "category": "Honduras"
+ },
+ {
+  "name": "RCV TV",
+  "logo": "https://i.imgur.com/0TEeEFG.jpg",
+  "url": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+  "category": "Honduras"
+ },
+ {
+  "name": "Caracol TV",
+  "logo": "https://i.imgur.com/WbfdJbk.png",
+  "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
+  "category": "Colombia"
+ },
+ {
+  "name": "Canal RCN",
+  "logo": "https://i.imgur.com/5PhTaHp.png",
+  "url": "http://138.121.15.230:9002/RCN/index.m3u8",
+  "category": "Colombia"
+ },
+ {
+  "name": "MCI Television",
+  "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+  "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+  "category": "Colombia"
+ },
+ {
+  "name": "Bethel Colombia",
+  "logo": "https://i.imgur.com/BYdMsLL.png",
+  "url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
+  "category": "Colombia"
+ },
+ {
+  "name": "Venevisión",
+  "logo": "https://i.imgur.com/gm1m8hW.png",
+  "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+  "category": "Venezuela"
+ },
+ {
+  "name": "Televen",
+  "logo": "https://i.imgur.com/cxvkUvK.png",
+  "url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
+  "category": "Venezuela"
+ },
+ {
+  "name": "Globovisión",
+  "logo": "https://i.imgur.com/v6nRdxQ.png",
+  "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
+  "category": "Venezuela"
+ },
+ {
+  "name": "Reforma TV",
+  "logo": "https://i.imgur.com/iZMDddR.png",
+  "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+  "category": "Venezuela"
+ },
+ {
+  "name": "Meridiano TV",
+  "logo": "https://i.imgur.com/I6gsUqD.png",
+  "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+  "category": "Béisbol"
+ },
+ {
+  "name": "Win Sports",
+  "logo": "https://i.imgur.com/DuSSrHV.png",
+  "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+  "category": "Béisbol"
+ },
+ {
+  "name": "AyM Sports",
+  "logo": "https://i.imgur.com/yu3Bpbd.png",
+  "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
+  "category": "Béisbol"
  }
 ]
