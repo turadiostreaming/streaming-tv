@@ -338,5 +338,26 @@
     "url": "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8",
     "category": "Republica Dominicana",
     "cristiano": false
+  },
+  {
+    "name": "Telemundo PR",
+    "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+    "category": "Puerto Rico",
+    "cristiano": false
+  },
+  {
+    "name": "TeleOnce",
+    "logo": "https://i.imgur.com/Crt3P4N.png",
+    "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+    "category": "Puerto Rico",
+    "cristiano": false
+  },
+  {
+    "name": "WAPA TV",
+    "logo": "https://i.imgur.com/kqq7tD9.png",
+    "url": "https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8",
+    "category": "Puerto Rico",
+    "cristiano": false
   }
 ]
