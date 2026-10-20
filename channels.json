@@ -135,27 +135,6 @@
     "category": "Republica Dominicana"
   },
   {
-    "name": "Telemicro",
-    "logo": "https://i.imgur.com/WhgySAk.png",
-    "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
-    "category": "Republica Dominicana",
-    "referer": "https://telemicro.com.do/players/5tv/index_pc.php"
-  },
-  {
-    "name": "Telecentro",
-    "logo": "https://i.imgur.com/F17zNXh.png",
-    "url": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
-    "category": "Republica Dominicana",
-    "referer": "https://telemicro.com.do/players/13tv/index_pc.php"
-  },
-  {
-    "name": "Digital 15",
-    "logo": "https://i.imgur.com/v3mkmZa.png",
-    "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
-    "category": "Republica Dominicana",
-    "referer": "https://telemicro.com.do/players/15tv/index_pc.php"
-  },
-  {
     "name": "Telemicro Internacional",
     "logo": "https://i.imgur.com/507tvMY.png",
     "url": "http://45.228.234.60:8880/play/a05f/index.m3u8",
@@ -254,5 +233,110 @@
     "logo": "https://i.imgur.com/yu3Bpbd.png",
     "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
     "category": "Béisbol"
+  },
+  {
+    "name": "Teleuniverso",
+    "logo": "https://i.imgur.com/gQev8ST.png",
+    "url": "https://hls.tvabierta.net/hls/029.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Altanto TV",
+    "logo": "https://i.imgur.com/KWvVLhc.png",
+    "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Canal Catorce",
+    "logo": "https://i.imgur.com/iKLGBbA.png",
+    "url": "https://stream.haislin.com/14tv/index.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Extra 86 TV",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg",
+    "url": "https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Enterate RD",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg",
+    "url": "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Galaxia TV",
+    "logo": "https://grupomediosdelnorte.com/iptv/galaxia.png",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "La Descarga TV",
+    "logo": "https://imgur.com/kq1CrDE.png",
+    "url": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Luna TV",
+    "logo": "https://i.imgur.com/EvX5aqI.png",
+    "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Manaclar TV",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg",
+    "url": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Nexxo TV",
+    "logo": "https://i.imgur.com/2OpCxa6.png",
+    "url": "https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "RDN",
+    "logo": "https://i.imgur.com/x02CGSW.png",
+    "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Super Canal",
+    "logo": "https://i.imgur.com/AZBamNi.png",
+    "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "TDN Medios",
+    "logo": "https://i.imgur.com/C8dSJM7.png",
+    "url": "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Telecontacto",
+    "logo": "https://i.imgur.com/TMvV9dF.png",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
+  },
+  {
+    "name": "Navarrete Television",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/navarrete.png",
+    "url": "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8",
+    "category": "Republica Dominicana",
+    "cristiano": false
   }
 ]
